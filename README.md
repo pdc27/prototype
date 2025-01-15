@@ -1,6 +1,8 @@
 # prototype - GOT Screen APP
 
-A new Flutter project.
+Este é um projeto desenvolvido em Flutter, inspirado no famoso seriado Game of Thrones. A aplicação permite ao usuário interagir de forma simples e intuitiva. Na tela inicial, há um botão para escolher uma "casa". Ao clicar, o usuário é automaticamente direcionado para a segunda tela, que apresenta três das principais casas de Westeros, cada uma com uma lista de personagens icônicos.
+
+Ao selecionar um personagem, uma mensagem especial é exibida, contendo uma frase memorável do personagem e seu nome.
 
 ## Getting Started
 
