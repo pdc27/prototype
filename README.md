@@ -1,4 +1,4 @@
-# prototype
+# prototype - GOT Screen APP
 
 A new Flutter project.
 
